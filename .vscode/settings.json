@@ -1,0 +1,5 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.referencedLibraries": ["3rd/*.jar"],
+  "Lua.workspace.ignoreDir": [".vscode", "data/filters.lua", "data*/wordbags/*"]
+}
